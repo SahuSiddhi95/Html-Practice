@@ -1,0 +1,220 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.navbar1{
+    height: 53px;
+    background-color: #f9f9f9;
+    display: flex;
+}
+button.get{
+ height: 41px;
+width: 130px;
+
+}
+.get:hover{
+   
+        background-color:  #04AA6D;;
+}
+i{
+    color: #d2d5da;
+    padding-left: 34px;
+    padding-top: 11px;
+    font-size: 30px;
+}
+#icon{
+    color: #cbc7d6;
+    margin-left: 428px;
+}
+.navbar{
+    height: 50px;
+    background-color: #3b3867;
+    display: flex;
+   
+}
+img{
+    padding-top: 3px;
+    margin-left: 100px;
+    background-color: #3b3867;
+    
+}
+.logo{
+    font-size: 39px;
+    color: whitesmoke;
+    text-decoration: none;
+    
+    margin-right: 500px;
+    padding-left: 11px;
+    
+
+}
+.logo:hover{
+    color: rgb(136, 75, 85);
+    /* background-color: rgb(71, 29, 43); */
+}
+.border{
+    border: ipx solid white;
+}
+a.menu{
+    TEXT-DECORATION: NONE;
+    font-size: 16px;
+    color: white;
+    padding-right: 20px;
+    padding-top: 16px;
+    
+}
+a:hover{
+    color:  rgb(136, 75, 85);;
+}
+/* a .logo{
+    padding-left: 9px;
+    margin-left: -10px;
+} */
+.image{
+    background-image: url("https://images.unsplash.com/photo-1522252234503-e356532cafd5?q=80&w=1450&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+     height: 600px;
+     text-align: center;
+}
+h1{
+    padding-top: 191px;
+    font-size: 45px;
+    color: white;
+}
+p.font{
+    color: #E0F2F1;
+    margin-bottom: 30px;
+}
+/* button{
+    height: 41px;
+    width: 130px;
+   
+} */
+/* button:hover{
+    background-color:  #04AA6D;;
+} */
+.middle{
+    height: 200px;
+     display: flex;
+    
+}
+.container{
+    height: 394px;
+    background-color: #FAFAFA;;
+    display: flex;
+
+}
+.box1{
+    height: 393px;
+    width: 615px;
+    background-size: cover;
+    background-image: url("https://images.unsplash.com/photo-1710237103624-77e1c5b612a8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw2NXx8fGVufDB8fHx8fA%3D%3D");
+    
+    margin-left: 6px;
+}
+.fa-brands{
+    font-size: 42px;
+    padding-left: 169px;
+    
+    color: #21213f;
+}
+p.font2{
+    font-size: 15px;
+    padding-left: 140px;
+    font-family: justify;
+    font-weight: bold;
+}
+div.fa-brands{
+    padding-left: 350px;
+    padding-top: 25px;
+}
+div.fabrands2{
+    text-align: center;
+    padding-top: 25px;
+  
+}
+p.font3{
+    padding-left: 171px;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+p.text{
+    font-size: 13px;
+    font-family: auto;
+    color: black;
+    padding-left: 91px;
+    font-size: 13px;
+    font-family: auto;
+    color: black;
+    
+    padding-top: 14px;
+}
+div.about{
+    padding-left: 100px;
+    height: 400px;
+    width: 615px;
+}
+.about h2{
+    text-decoration: underline;
+    color: #0e0e44;
+    padding-top: 60px;
+    padding-bottom: 28px;
+}
+button.get2{
+    height: 45px;
+    width: 130px;
+    background-color: #0e0e44;
+    color: whitesmoke;
+    border-radius: 4px;
+}
+p.pera{
+    padding-right: 95px;
+    padding-bottom: 20px;
+
+}
+.container2{
+    height: 400px;
+    background-color: #fffdfd;
+    display: flex;
+}
+.get:hover{
+    color: pink;
+}
+.image1{
+    height: 334px;
+    width: 344px;
+    background-image: url("https://images.unsplash.com/photo-1606857521015-7f9fcf423740?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+    margin-left: 85px;
+    margin-top: 32px;
+    opacity: 0.8;
+}
+.image2{
+    height: 334px;
+    width: 344px;
+    background-image: url("https://images.unsplash.com/photo-1570126646281-5ec88111777f?q=80&w=1441&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+    margin-left: 65px;
+    margin-top: 32px;
+    opacity: 0.8;
+}
+.image3{
+    height: 334px;
+    width: 344px;
+    background-image: url("https://images.unsplash.com/photo-1510074377623-8cf13fb86c08?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+    margin-left: 65px;
+    margin-top: 32px;
+    opacity: 0.8;
+
+}
+footer{
+    text-align: center;
+    height: 150px;
+    background-color: #4e5a6f;
+    color: #e1e0d5;
+}
+i.fa-phone:before{
+    margin-left: -40px;
+    font-size: 15px;
+}
