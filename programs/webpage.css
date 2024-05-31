@@ -1,0 +1,224 @@
+*{
+    margin: 0%;
+    padding: 0%;
+   
+}
+
+i{
+   font-size: 22px;
+   color: #dd96a2;
+   border: 1px solid rgb(229, 229, 241) 
+}
+body{
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(252, 250, 250);
+}
+.navbar{
+    height: 60px;
+    /* border: 1px rgb(219, 190, 190); */
+    background-color:rgb(252, 250, 250) ;
+   display: flex;
+   flex-direction: row;
+   border: 1px solid rgb(229, 229, 241) ;;
+}
+.logo{
+  display: flex;
+  font-size: 44px;
+  /* font-family: "Gill Sans", sans-serif; */
+  padding-left: 87px;
+}
+input{
+     font-family:  "Gill Sans", sans-serif;
+    margin-left: 176px;
+    height: 35px;
+    width: 438px;
+    padding-left: 15px;
+    font-size: 15px;
+    border: 1px solid rgb(204, 215, 230) ;
+}
+.sidebar{
+    height: 500px;
+    width: 297px;
+    /* background-color: #f9d8f9; */
+    text-align: center;
+    color: black;
+    margin-left: 21px;
+    
+}
+.table{
+    color: rgb(12, 12, 12);
+}
+li {
+    padding-top: 15px;
+    margin-bottom: 0px;
+    font-size: 23px;
+    color: rgb(22, 17, 17);
+    text-decoration: none;
+    margin-right: 20px;
+    
+
+}
+ ul li{
+    color: aliceblue;
+    border:1px solid ;
+}
+.Categories{
+    text-decoration: none;
+    color: black;
+}
+.Categories:hover{
+    background-color: palevioletred;
+}
+li a:hover{
+     background-color: palevioletred;
+}
+ li .active{
+    color: black;
+    text-decoration: none;
+}
+ .active:hover{
+    background-color: palevioletred;
+ }
+  li.a:visited{
+    background-color: palevioletred;
+ }
+ .container{
+    display: flex;
+ }
+ .navbar2{
+    height: 30px;
+    width: 400px;
+ }
+ .navbar2{
+    background-color: rgb(252, 250, 250);;
+    height: 64px;
+    width: 1066px;
+    
+   
+ }
+ .nav{
+    
+    text-align: center;
+    display: flex;
+    padding-left: 19px;
+    padding-bottom: 29px;
+ }
+ a.Home{
+    padding-right: 53px;
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+    font-family: "Gill Sans", sans-serif;
+    display: flex;
+    padding-left: 9px;
+    padding-top: 18px;
+ }
+ a.Home:hover{
+    color: palevioletred  ;
+    
+ }
+ a.Home:visited{
+
+ }
+ a.login{
+    margin-top: 18px;
+    /* padding-left: 250px; */
+    padding-right: 20px;
+    font-family: "Gill Sans", sans-serif;
+    color: black;
+    font-size: 16px;
+    text-decoration: none;
+    float: left;
+    /* padding-left: 139px; */
+ }
+ a.login:hover{
+    color: palevioletred ;
+ }
+ .image{
+   height: 420px;
+    width: 1035px;
+    display: block;
+    background-image: url(https://images.unsplash.com/photo-1583002084130-39730178e1ad?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+    border: 1px solid rgb(218, 218, 241) ;
+    
+ }
+ h2{
+    font-family: "Gill Sans", sans-serif;
+    text-align: center;
+    font-size: 24px;
+    color: white;
+    padding-top: 149px;
+ }
+ h1{
+    font-family: "Gill Sans", sans-serif;
+    text-align: center;
+    font-size: 42px;
+    color: white;
+    padding-top: 27px;
+ }
+ button{
+   margin-left: 464px;
+    margin-top: 19px;
+    height: 40px;
+    width: 100px;
+    background-color: white;
+    font-family: "Gill Sans", sans-serif;
+ }
+ .container2{
+    display: flex; 
+   height: 300px;
+   width: 1300px;
+   /* background-color: rgb(255, 240, 249); */
+   
+  
+ }
+ .box1{
+   height: 78px;
+   width: 238px;
+   margin-top: 50px;
+   margin-left: 29px;
+   border: 1px solid rgb(229, 229, 241);
+   font-family: "Gill Sans", sans-serif;
+   margin-right: 127px;
+   padding-right: 9px;
+   
+   
+ }
+ h3{
+   padding-top: 27px;
+    padding-left: 54px;
+    color: #231d1d;
+    font-family: "Gill Sans", sans-serif;
+ }
+ .img{
+   background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconsdb.com%2Fpink-icons%2Fcheckmark-icon.html&psig=AOvVaw2gxnGNlCIaw70vc5CdEQ15&ust=1710310638658000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLC2peKJ7oQDFQAAAAAdAAAAABAE");
+   background-size: cover;
+ }
+ .box2{
+   height: 78px;
+   width: 238px;
+   margin-top: 50px;
+   /* margin-left: 31px; */
+   border: 1px solid rgb(229, 229, 241);
+ }
+ .box3{
+   height: 78px;
+   width: 238px;
+   margin-top: 50px;
+   /* margin-left: 90px */
+   border: 1px solid rgb(229, 229, 241);
+ }
+ .box4{
+   height: 78px;
+   width: 238px;
+   margin-top: 50px;
+   /* margin-left: 90px */
+   border: 1px solid rgb(229, 229, 241);
+   margin-left: 315px;
+ }
+ div .box2 {
+    padding-left: 40px;
+ }
+

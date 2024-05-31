@@ -1,0 +1,127 @@
+
+
+*{
+ padding: 0%;
+    margin: 0%;
+}
+
+
+
+div{
+    padding-bottom: 20px;
+}
+.box{
+    margin-left: 46px
+}
+.container{
+    padding-bottom: 50px;
+    padding-bottom: 50px;
+    border: 2px solid gray;
+    background-color: aquamarine;
+   
+}
+.reg{
+    margin-right: 300px;
+    margin-left: 300px;
+    
+}
+.client-details{/
+    position  fixed;
+    text-align: center;
+    font-family:  Arial, Helvetica, sans-serif;
+    background-color: rgb(5, 5, 53);
+    color: white;
+   padding-bottom: 40px;
+   padding-top: 20px;
+   font-size: 20px;
+}
+
+
+.client-details p{
+font-size: 18px;
+}
+
+.cname{
+   
+    padding-top: 18px;
+   
+}
+
+.name{
+    /* font-size:x-large; */
+    margin-right: 67px;
+   
+   
+}
+.compnam{
+    /* font-size: x-large; */
+    margin-right: 86px;
+ }
+ .tname{
+    /* font-size: x-large; */
+    margin-right: 119px;
+ }
+input{
+     width: 419px;
+     /* border: none; */
+     padding-top: 7px;
+     padding-bottom: 7px;
+     padding-left: 5px;
+     box-sizing: border-box;
+     border: none;
+     border-bottom: 1px solid rgb(73, 70, 70);
+     margin-left: 20px;
+}
+.department{
+    margin-right: ;
+    /* font-size: x-large; */
+}
+input[type=submit]{
+    background-color:  #04AA6D;
+    border: none;
+    color: white;
+    height: 50px;
+    width: 110px;
+    text-align: center;
+      cursor: pointer;
+      margin-left: 297px;
+    border-radius: 15px;  
+    
+     
+}
+textarea{
+    margin-left: 175px;
+    margin-top: -33px;
+}
+select{
+    margin-left: 95px;
+    border-width: 1px;
+
+}
+.comp-add{
+    margin-right: 30px;
+}
+.addressline2{
+    margin-left: 156px;
+    margin-top: 9px;
+}
+.comp-webside{
+    margin-right: 29px;
+}
+.comp-logo{
+    
+}
+.WorkingHours{
+    margin-right: 49px;
+}
+.workingdays{
+    padding-left: 3px;
+    margin-right: 52px;
+
+}
+.additionalinformation{
+
+}
+
+
+ 
